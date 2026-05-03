@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Demo project for CI/CD security scanning",
   "dependencies": {
-    "lodash": "4.17.16",
+    "lodash": "4.17.14",
     "express": "4.17.1"
   }
 }
